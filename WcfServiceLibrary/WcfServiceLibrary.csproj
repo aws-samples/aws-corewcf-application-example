@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>WcfServiceLibrary</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AWS.Logger.Core" Version="3.1.0" />
+    <PackageReference Include="AWSSDK.CloudWatch" Version="3.7.4.11" />
+    <PackageReference Include="AWSSDK.CloudWatchLogs" Version="3.7.2.52" />
+    <PackageReference Include="CoreWCF.Primitives" Version="*" />
+    <PackageReference Include="CoreWCF.Http" Version="*" />
+    <PackageReference Include="CoreWCF.NetTcp" Version="*" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="*" />
+  </ItemGroup>
+
+  <ItemGroup Label="PortingInfo">
+  <!-- DO NOT REMOVE WHILE PORTING
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Microsoft.CSharp.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Core.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Runtime.Serialization.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.ServiceModel.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.dll
+  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.Linq.dll
+  -->
+  </ItemGroup>
+</Project>

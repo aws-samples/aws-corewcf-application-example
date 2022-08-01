@@ -1,0 +1,176 @@
+==========
+References
+==========
+<global namespace>
+Amazon
+Amazon.CloudWatchLogs
+System
+System.Collections
+System.Threading
+WCFTCPSelfHost
+System.Threading.Tasks
+Amazon.CloudWatchLogs.Model
+System.Linq
+CoreWCF
+Microsoft
+Microsoft.AspNetCore
+Microsoft.AspNetCore.Hosting
+CoreWCF.Configuration
+Microsoft.Extensions
+Microsoft.Extensions.DependencyInjection
+Microsoft.AspNetCore.Builder
+System.Collections.Generic
+System.Text
+System.Net
+Microsoft.Extensions.Configuration
+System.Reflection
+project.all
+WcfServiceLibrary1
+System.Runtime
+System.Runtime.Serialization
+CoreWCF.Channels
+CoreWCF.Security
+CoreWCF.Dispatcher
+CoreWCF.Description
+CoreWCF.Diagnostics
+CoreWCF.Security.Token
+CoreWCF.IdentityModel
+CoreWCF.IdentityModel.Tokens
+CoreWCF.IdentityModel.Claims
+CoreWCF.IdentityModel.Policy
+CoreWCF.IdentityModel.Selectors
+CoreWCF.IdentityModel.Services.Tokens
+CoreWCF.Web
+CoreWCF.ServiceLibrary.Project
+WcfTcpClient
+System.ServiceModel
+WcfTcpClient.ServiceReference1
+WCF.Client
+
+===============
+DownloadedFiles
+===============
+corewcf.servicelibrary.project.json
+corewcf.identitymodel.selectors.json
+corewcf.identitymodel.policy.json
+corewcf.identitymodel.services.tokens.json
+corewcf.identitymodel.claims.json
+corewcf.identitymodel.tokens.json
+corewcf.identitymodel.json
+corewcf.security.json
+wcf.client.json
+corewcf.channels.json
+project.all.json
+corewcf.dispatcher.json
+corewcf.configuration.json
+corewcf.diagnostics.json
+corewcf.description.json
+corewcf.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\Users\abhtia\corewcf\portedSolution\WcfTcpClient\WcfTcpClient.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+System.ServiceModel.Primitives,*
+System.ServiceModel.Http,*
+System.ServiceModel.NetTcp,*
+
+----------------------
+Showing results for: D:\Users\abhtia\corewcf\portedSolution\WCFTCPSelfHost\WCFTCPSelfHost.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\abhtia\corewcf\portedSolution\WcfServiceLibrary1\WcfServiceLibrary1.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+
+----------------------
+Showing results for: D:\Users\abhtia\corewcf\portedSolution\WCFTCPSelfHost\WCFTCPSelfHost.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\abhtia\corewcf\portedSolution\WcfTcpClient\WcfTcpClient.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+System.ServiceModel.Primitives,*
+System.ServiceModel.Http,*
+System.ServiceModel.NetTcp,*
+
+----------------------
+Showing results for: D:\Users\abhtia\corewcf\portedSolution\WcfServiceLibrary1\WcfServiceLibrary1.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+
+
+===========
+BuildErrors
+===========
+
+

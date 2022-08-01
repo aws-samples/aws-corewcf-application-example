@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ServiceModel.Primitives" Version="*" />
+    <PackageReference Include="System.ServiceModel.Http" Version="*" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="*" />
+  </ItemGroup>
+</Project>

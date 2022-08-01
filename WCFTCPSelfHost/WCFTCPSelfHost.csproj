@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AWS.Logger.AspNetCore" Version="3.3.0" />
+    <PackageReference Include="AWS.Logger.NLog" Version="3.1.0" />
+    <PackageReference Include="AWSSDK.CloudWatch" Version="3.7.4.11" />
+    <PackageReference Include="CoreWCF.Primitives" Version="*" />
+    <PackageReference Include="CoreWCF.Http" Version="*" />
+    <PackageReference Include="CoreWCF.NetTcp" Version="*" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="*" />
+    <PackageReference Include="CoreWCF.ConfigurationManager" Version="*" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WcfServiceLibrary\WcfServiceLibrary.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="corewcf_ported.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>
